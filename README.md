@@ -1,14 +1,14 @@
 ### 360
 
-This is my 360 project
+This is my 360 project.
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/kvvpb" ></script>
 
 ***
 
-camera effects
+Camera Effects
 
-this is my camera effects project.
+This is my camera effects project.
 
 ![grant](https://github.com/clonetrooper71/clonetrooper71.github.io/blob/master/grant.PNG?raw=true "Optional Title")
 
