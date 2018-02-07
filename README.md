@@ -13,3 +13,7 @@ This is my camera effects project.
 ![grant](https://github.com/clonetrooper71/clonetrooper71.github.io/blob/master/grant.PNG?raw=true "Optional Title")
 
 ***
+
+This is my story project.
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/greenmoster71/grant-s-house" ></script>
