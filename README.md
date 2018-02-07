@@ -14,6 +14,8 @@ This is my camera effects project.
 
 ***
 
-This is my story project.
+Stroyscape
+
+This is my storyscape project.
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/greenmoster71/grant-s-house" ></script>
